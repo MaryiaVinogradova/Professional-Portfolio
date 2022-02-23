@@ -19,6 +19,7 @@ Includes link to my GitHub page and LinkedIn page.
 Includes link to PDF with resume. 
 Bulma framework was used. 
 
+<img width="1167" alt="Screen Shot 2022-02-22 at 10 12 41 PM" src="https://user-images.githubusercontent.com/95455286/155265455-bec9b2ea-646d-4c8e-80e1-fd60a4865e38.png">
 
 ### GitHub update
 GitHub page was updated with Bio, Photo, contact info and link to portfolio, also, two pined repos. 
