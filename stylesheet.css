@@ -101,7 +101,7 @@ a{
     
 }
 
-li:hover{
+a:hover{
     color: rgb(74 175 192);
     
 }
@@ -114,7 +114,6 @@ li:hover{
 }
 
 .bio-discr{
-    padding-top: 60px;
     padding-bottom: 30px;
     text-align: left;
     position: relative;
@@ -258,4 +257,10 @@ main{
         justify-content: center;
         display: inline;
     
+    }
+
+    footer{
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
     }
